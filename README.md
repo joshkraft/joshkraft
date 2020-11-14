@@ -10,4 +10,4 @@ Want to learn something? *Create a repo*.
 
 Got some messy code that is a bit embarassing? *Leave it up*. 
 
-One day I may comb through my Github and hide the mess. But for now, nothing on this profile is a finished product. For a more curated list of projects, head on over to my website, **[joshkraft.org](www.joshkraft.org)**. Thanks!
+One day I may comb through my Github and hide the mess. But for now, nothing on this profile is a finished product. For a more curated list of projects, head on over to my website, **[joshkraft.org](https://joshkraft.org)**. Thanks!
