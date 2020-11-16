@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Josh Kraft. Welcome to my Github.
+### Hi there 👋 My name is Josh Kraft. Welcome to my Github.
 
 **A quick note** - please do not consider this site to be a portfolio. I do not aim to keep a clean, sleek, well organized Github profile. Instead, I use Github as a personal dumping ground. 
 
